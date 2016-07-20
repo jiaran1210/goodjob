@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  ChaegerBaby
+//  ChargerBaby
 //
 //  Created by 嘉然 on 16/7/21.
 //  Copyright © 2016年 com.alipay. All rights reserved.
@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor yellowColor];
+    self.view.backgroundColor = [UIColor redColor];
     // Do any additional setup after loading the view, typically from a nib.
 }
 

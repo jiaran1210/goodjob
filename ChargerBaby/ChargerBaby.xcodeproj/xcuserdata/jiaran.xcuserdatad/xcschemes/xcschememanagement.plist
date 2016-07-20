@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ChaegerBaby.xcscheme</key>
+		<key>ChargerBaby.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9A2EE0821D3FDADD00293840</key>
+		<key>9A2EE0A51D3FDCA800293840</key>
 		<dict>
 			<key>primary</key>
 			<true/>
